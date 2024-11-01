@@ -1,7 +1,5 @@
-# playUDS (under-dev)
-
 <p align="center">
-  <img  width="500" src="img/playuds_banner.png" />
+  <img  width="900" src="img/playuds_banner.png" />
 </p>
 <h2 align="center"><b>It’s a beginner-friendly playground for learning, exploring, and practicing UDS functionality and cybersecurity aspects.</b></h3> 
 
